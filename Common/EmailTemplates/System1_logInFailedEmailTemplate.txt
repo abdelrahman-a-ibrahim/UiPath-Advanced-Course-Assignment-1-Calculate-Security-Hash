@@ -1,0 +1,5 @@
+Dear,
+
+Kindly note that your logIn to "ACME System 1" has been failed at {1}
+ 
+Regards,
